@@ -106,6 +106,23 @@ Below is a directory of key scientific agent platforms, frameworks, and tools th
 | **[\"Dasheng\" Sci-Agent](https://www.sais.com.cn/)** | SAIS + Fudan Univ | 2026.3 | System-level High-initiative Scientific Agent | Xinghe Qizhi Platform |
 | **[BioMedAgent](https://github.com/BOBQWERA/BioMedAgent)** | Academic Group | 2026.4 | Biomedical Data Analysis Agent | Academic Paper Replication |
 | **[OmicsClaw](https://github.com/TianGzlab/OmicsClaw)** | Tsinghua AI4Life Lab | 2026.3 | Multi-omics AI Agent | Docker-based (OpenClaw) |
+| **[OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S)** | PKU-YuanGroup | 2026.7 | Code-as-Action Open-Source Scientific Agent | Open-source (Python / GitHub) |
+| **[Apevon Science](https://apevon.com)** | Apevon Team | 2026.8 | Execution-focused Scientific AI Agent | SaaS + Local Kernel |
+| **[Edison Scientific](https://futurehouse.org)** | FutureHouse | 2026.8 | Autonomous Hypothesis & Experiment Verification Platform | SaaS / Cloud API |
+| **[Elicit Research Agent](https://elicit.com)** | Elicit | 2026.8 | Evidence Synthesis Agent for Papers, Patents & Trials | SaaS Platform |
+| **[Gemini for Science](https://blog.google)** | Google DeepMind | 2026.7 | Co-Scientist / AlphaEvolve / ERA Science Suite | Google Cloud Gemini |
+| **[ChatGPT Academic Workspace](https://openai.com)** | OpenAI | 2026.7 | Deep Research Workspace for Academic Labs (GPT-5.6 Sol) | ChatGPT Enterprise / Pro |
+| **[DeerFlow 2.0](https://github.com/bytedance/deerflow)** | ByteDance | 2026.7 | Open-Source SuperAgent Harness for Long-Horizon Workflows | Open-source (GitHub) |
+| **[Arbor (HTR Framework)](https://github.com/arbor-ai/arbor)** | Open Source Community | 2026.7 | Hypothesis-Tree Refinement Research Agent Framework | Open-source (GitHub) |
+| **[BigBang-V1](https://scimaster.bohrium.com)** | SJTU + DP Technology | 2026.8 | 35B RSI Synthetic-Data AI4S Foundation Model | Open-weights / SaaS |
+| **[AskChem](https://huggingface.co)** | Open Source Chemistry AI | 2026.7 | Claim-Centered Chemistry Literature Extraction | Open-source (HuggingFace) |
+| **[GENCO / OpenGridFM](https://opengridfm.org)** | IBM Research | 2026.8 | Physics-Consistent Geometric Neural Grid Solver | Open-source (GitHub) |
+| **[OpenAI Astra Formal Math](https://github.com/openai)** | OpenAI | 2026.8 | Formal Math Theorem Prover (Lean 4) | Open API / Verification Engine |
+| **[Evo1 / Evo2 Genome Models](https://arcinstitute.org)** | Arc Institute + Stanford | 2026.8 | Generative Synthetic Genome Design Model | Open Model Weights |
+| **[CuspAI Materials Foundry](https://cusp.ai)** | CuspAI + Meta + NVIDIA | 2026.8 | Inverse-Design Functional Materials Discovery Platform | Enterprise / Cloud Platform |
+| **[Atinary Self-Driving Labs](https://atinary.com)** | Atinary & Bruker | 2026.8 | Closed-Loop AI Robotic Laboratory Automation | Hardware + Software Integration |
+| **[Consensus Research OS](https://consensus.app)** | Consensus | 2026.8 | Publisher-Grounded Consensus Agent & Citation Graph | SaaS Platform |
+| **[SciSpace AI Agent](https://scispace.com)** | SciSpace | 2026.8 | Full-Workflow Literature Review & Interactive Writing Agent | SaaS Platform |
 
 ---
 

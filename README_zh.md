@@ -106,6 +106,23 @@
 | **["大圣" 科研智能体](https://www.sais.com.cn/)** | 上智院 + 复旦大学 | 2026.3 | 系统级高能动性科研 Agent | 星河启智平台 |
 | **[BioMedAgent](https://github.com/BOBQWERA/BioMedAgent)** | 国内团队 | 2026.4 | 生物医学数据分析 Agent | 学术成果，可复现 |
 | **[OmicsClaw](https://github.com/TianGzlab/OmicsClaw)** | 清华 AI4Life Lab | 2026.3 | 多组学 AI Agent | Docker 部署 (基于 OpenClaw) |
+| **[OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S)** | 北大-元空 Agent 联合实验室 | 2026.7 | Code-as-Action 开源科研 Agent | 开源 (Python / GitHub) |
+| **[Apevon Science](https://apevon.com)** | Apevon 团队 | 2026.8 | 执行型科研 AI 智能体 | SaaS + 本地内核 |
+| **[Edison Scientific](https://futurehouse.org)** | FutureHouse | 2026.8 | 自主科研假说与实验验证平台 | SaaS / 云端 API |
+| **[Elicit Research Agent](https://elicit.com)** | Elicit | 2026.8 | 文献/专利/临床试验证据合成 Agent | SaaS 平台 |
+| **[Gemini for Science](https://blog.google)** | Google DeepMind | 2026.7 | Co-Scientist / AlphaEvolve / ERA 科研套件 | Google Cloud Gemini |
+| **[ChatGPT Academic Workspace](https://openai.com)** | OpenAI | 2026.7 | 深度学术科研工作区 (GPT-5.6 Sol) | ChatGPT Enterprise / Pro |
+| **[DeerFlow 2.0](https://github.com/bytedance/deerflow)** | 字节跳动 | 2026.7 | 长周期开源 SuperAgent 框架 | 开源 (GitHub) |
+| **[Arbor (HTR Framework)](https://github.com/arbor-ai/arbor)** | 开源社区 | 2026.7 | 假说树细化科研 Agent 框架 | 开源 (GitHub) |
+| **[BigBang-V1](https://scimaster.bohrium.com)** | 上海交大 + 深势科技 | 2026.8 | 35B 纯合成数据 RSI 科学大模型 | 开放权重 / SaaS |
+| **[AskChem](https://huggingface.co)** | 开源化学 AI 团队 | 2026.7 | 声明抽取与化学文献合成 AI | 开源 (HuggingFace) |
+| **[GENCO / OpenGridFM](https://opengridfm.org)** | IBM Research | 2026.8 | 几何神经网络物理求解器 | 开源 (GitHub) |
+| **[OpenAI Astra Formal Math](https://github.com/openai)** | OpenAI | 2026.8 | 形式化数学证明 Agent (Lean 4) | 开放 API / 验证引擎 |
+| **[Evo1 / Evo2 Genome Models](https://arcinstitute.org)** | Arc Institute + 斯坦福 | 2026.8 | 生成式人工基因组设计模型 | 开放模型权重 |
+| **[CuspAI Materials Foundry](https://cusp.ai)** | CuspAI + Meta + NVIDIA | 2026.8 | 逆向材料设计与功能预测平台 | 企业级 / 云平台 |
+| **[Atinary Self-Driving Labs](https://atinary.com)** | Atinary & Bruker | 2026.8 | 机器人与 AI 闭环实验室自动化 | 软硬件一体化部署 |
+| **[Consensus Research OS](https://consensus.app)** | Consensus | 2026.8 | 全文溯源 Consensus Agent 与图谱 | SaaS 平台 |
+| **[SciSpace AI Agent](https://scispace.com)** | SciSpace | 2026.8 | 全流程文献综述与 LaTeX 写作 Agent | SaaS 平台 |
 
 ---
 
